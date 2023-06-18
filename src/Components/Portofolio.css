@@ -1,0 +1,33 @@
+div {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+h1 {
+    color: #da0606;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-decoration:wavy;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #c02626;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #b42a2a;
+    font-size: 14px;
+}
+

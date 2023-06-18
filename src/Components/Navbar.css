@@ -1,0 +1,35 @@
+.Navbar {
+    background-color: #9e7e7e;
+    padding: 10px;
+}
+.Navbar>button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: rgb(189, 150, 152);
+    text-decoration: underline;
+    margin: 0 10px;
+}
+.Navbar>ul {
+    color: rgb(123, 123, 157);
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.Navbar>li {
+    margin-right: 10px;
+    list-style: none;
+}
+
+.Navbar>a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.Navbar>a:hover {
+    text-decoration: underline;
+}
+
